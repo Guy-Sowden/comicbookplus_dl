@@ -1,7 +1,7 @@
 # comicbookplus_dl
-this is a small program disigned to download public domain comic books from http://comicbookplus.com
+this is a small program designed to download public domain comic books from http://comicbookplus.com
 
--- please note to download larger series of comics you will need to run the program mutilple times for each series  page
+-- please note to download larger series of comics you will need to run the program mutilple times for each series page
 
 to run the app 
   1. first download and extract the files
